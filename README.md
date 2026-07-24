@@ -6,9 +6,8 @@
 <p>Google Ads | Meta Ads </p>
 
 </header>
-<a href="#project" class="button">View Portfolio</a>
+<a href="#portfolio" class="btn">View Portfolio</a>
 <section>
-<div class="container">
 
 <h2>Professional Summary</h2>
 

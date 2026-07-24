@@ -99,11 +99,7 @@ and performance tracking.
 
 <h2>Additional Skills</h2>
 
-<span class="badge">SEO</span>
-
-<span class="badge">On-Page SEO</span>
-
-<span class="badge">Technical SEO</span>
+<span class="badge">Website SEO (On-Page, Off-Page, Technical, Local))</span>
 
 <span class="badge">Google Analytics 4</span>
 

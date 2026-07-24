@@ -131,6 +131,12 @@ and performance tracking.
 
 <li>Website SEO Optimization</li>
 
+<li>Research and write SEO-friendly news articles</li>
+
+<li>Publish articles using WordPress CMS</li>
+
+<li>Google Web Stories Creation</li>
+
 <li>YouTube Channel Management</li>
 
 <li>Content Publishing</li>
@@ -164,6 +170,8 @@ and performance tracking.
 <li>YouTube Studio</li>
 
 <li>Meta Business Suite</li>
+
+<li>AI Tools (ChatGPT, Claude, Grok, DeepSeek)</li>
 
 </ul>
 

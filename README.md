@@ -8,6 +8,7 @@
 </header>
 <a href="#project" class="button">View Portfolio</a>
 <section>
+<div class="container">
 
 <h2>Professional Summary</h2>
 
